@@ -2,6 +2,9 @@
 
 A prompt is a request that you make to GitHub Copilot. For example, a question that you ask Copilot Chat, or a code snippet that you ask Copilot to complete. In addition to your prompt, Copilot uses additional context, like the code in your current file and the chat history, to generate a response.
 
+Prompt Engineering is the strategic crafting of user inputs to guide the AI towards producing desired code outputs. 
+This involves techniques like role prompting, contextual detailing, and iterative refinement, which collectively enhance the interaction between the developer and Copilot. 
+
 ### Start general, then get specific
 
 When writing a prompt for Copilot, first give Copilot a broad description of the goal or scenario. Then list any specific requirements.
@@ -104,4 +107,5 @@ Similarly, if you aren't getting the responses you want when you use Copilot wit
 -	Use clear and concise language
 -	Include examples and use cases, if relevant
 -	Cross reference between related files
+
 
