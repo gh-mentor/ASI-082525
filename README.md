@@ -8,7 +8,7 @@ LinkedIn: [Andrew Scoppa](https://www.linkedin.com/in/andrewscoppa/)
 
 ## C# Workshop Repository
 
-[GitHub Repository](https://github.com/gh-mentor/c-sharp-workshop)
+[GitHub repo](https://github.com/gh-mentor/c-sharp-workshop)
 
 ## OpenAI
 
