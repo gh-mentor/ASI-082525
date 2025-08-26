@@ -58,7 +58,7 @@ Include recommended tools an a proposed workflow for each task.
 
 ## Planning a Web-Based Invoicing Application
 ```
-I am an experienced C# developer and need help planning a web-based invoicing application. I want to use ASP.NET Web API for the backend with ReactJS components for client-side rendering. The application should be able to:
+I am an experienced C# developer and need help planning a web-based invoicing application. I want to use ASP.NET Web API for the backend with ReactJS components for client-side rendering. The application must:
 - have a RESTful API for managing invoices and clients
 - use a NoSQL database like MongoDB for data storage
 - have invoice management logic that makes it easy to add and remove invoice items and clients
@@ -69,14 +69,7 @@ I am an experienced C# developer and need help planning a web-based invoicing ap
 Break down the requirements into smaller tasks and provide a project plan as part of your response. I don't need code, just a project plan. 
 ```
 ```
-I also need help creating a test plan for the application that includes unit tests, integration tests, and end-to-end tests. My team has experience using MSTest. The application is built using C# with ASP.NET Core for the backend and ReactJS for the frontend. The test plan should include:
-- Test objectives
-- Test strategy
-- Test environment
-- Test schedule
-- Test resources
-- Test deliverables
-```
+I also need help creating a test plan for the application that includes unit tests, integration tests, and end-to-end tests. My team has experience using MSTest. The application is built using C# with ASP.NET Core for the backend and ReactJS for the frontend. 
 
 ## User Authentication
 ```
